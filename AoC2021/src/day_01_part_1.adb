@@ -70,7 +70,7 @@
 with Ada.Integer_Text_IO;
 with Ada.Text_IO;
 
-procedure Day_1 is
+procedure Day_01_Part_1 is
    File        : Ada.Text_IO.File_Type;
    Count       : Natural := 0;
    Last        : Integer;
@@ -96,4 +96,4 @@ begin
    Ada.Integer_Text_IO.Put(Count, Width => 1);
    Ada.Text_IO.New_Line;
 
-end Day_1;
+end Day_01_Part_1;
