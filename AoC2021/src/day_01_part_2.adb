@@ -62,7 +62,7 @@ begin
 
    Ada.Text_IO.Open(
       File => File,
-      Name => "inputs/day_1.input",
+      Name => "inputs/day_01.input",
       Mode => Ada.Text_IO.In_File
    );
 

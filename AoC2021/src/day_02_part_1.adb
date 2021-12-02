@@ -52,7 +52,7 @@ procedure Day_02_Part_1 is
    Position : Integer := 0;
    Depth    : Integer := 0;
 
-   package Strings is new Ada.Strings.Bounded.Generic_Bounded_Length (500);
+   package Strings is new Ada.Strings.Bounded.Generic_Bounded_Length(512);
    File  : Ada.Text_IO.File_Type;
    Line  : Strings.Bounded_String;
    Space : Natural;
@@ -61,7 +61,7 @@ begin
 
    Ada.Text_IO.Open(
       File => File,
-      Name => "inputs/day_2.input",
+      Name => "inputs/day_02.input",
       Mode => Ada.Text_IO.In_File
    );
 
