@@ -4,6 +4,8 @@ project Build is
    for Exec_Dir use "bin";
    for Main use (
       "day_01_part_1.adb",
-      "day_01_part_2.adb"
+      "day_01_part_2.adb",
+      "day_02_part_1.adb"
+      --"day_01_part_2.adb"
    );
 end Build;
