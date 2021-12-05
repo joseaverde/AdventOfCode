@@ -84,7 +84,6 @@ with Ada.Text_IO;
 with Day_04; use Day_04;
 
 procedure Day_04_Part_1 is
-   Board : Bingo_Board;
    Bingo_Boards : Bingo_Board_Vectors.Vector;
    Order : Number_Vectors.Vector;
 begin
