@@ -18,6 +18,8 @@ project Build is
       "day_07_part_1.adb",
       "day_07_part_2.adb",
       "day_08_part_1.adb",
-      "day_08_part_2.adb"
+      "day_08_part_2.adb",
+      "day_09_part_1.adb",
+      "day_09_part_2.adb"
    );
 end Build;
