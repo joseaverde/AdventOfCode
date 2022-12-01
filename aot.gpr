@@ -1,0 +1,18 @@
+project AoC is
+   for Source_Dirs use (
+      "src",
+      "AoC2015/src",
+      "AoC2016/src",
+      "AoC2017/src",
+      "AoC2018/src",
+      "AoC2019/src",
+      "AoC2020/src",
+      "AoC2021/src");
+   for Exec_Dir use "bin";
+   for Object_Dir use "obj";
+   for Main use ("main.adb");
+
+   package Builder is
+      for Executable ("main.adb") use "AoC";
+   end Builder;
+end AoC;
