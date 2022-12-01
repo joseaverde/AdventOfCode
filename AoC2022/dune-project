@@ -7,9 +7,9 @@
 (source
  (github username/reponame))
 
-(authors "Author Name")
+(authors "José Antonio Verde Jiménez")
 
-(maintainers "Maintainer Name")
+(maintainers "José Antonio Verde Jiménez")
 
 (license LICENSE)
 
