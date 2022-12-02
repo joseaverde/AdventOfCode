@@ -1,0 +1,9 @@
+name = "aoc2019"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["José Antonio Verde Jiménez"]
+maintainers = ["José Antonio Verde Jiménez <joseaverde@protonmail.com>"]
+maintainers-logins = ["joseaverde"]
+
+executables = ["AoC2019_Day01", "AoC2019_Day02"]

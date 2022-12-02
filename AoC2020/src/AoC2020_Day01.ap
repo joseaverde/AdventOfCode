@@ -1,0 +1,14 @@
+usar E/S
+
+Entero Lista crear Valores
+bucle E/S» Fin-Archivo ~ mientras
+   E/S» Leer-Entero cambiar » Añadir
+fin-bucle
+
+» Iterar iterar I
+   I cambiar » Siguiente » Iterar-Desde iterar J
+      I @ J @ * 2020 = si-sí E/S Poner-Entero fin-si
+   fin-iterar
+fin-iterar
+
+-- Suma de los 11 primero enteros:  0 0 10 1 rango iterar I I @ + fin-iterar
