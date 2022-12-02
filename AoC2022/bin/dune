@@ -1,0 +1,8 @@
+(executables
+ (public_names
+   AoC2022_Day01
+   AoC2022_Day02)
+ (names
+   AoC2022_Day01
+   AoC2022_Day02)
+ (libraries AoC2022))
