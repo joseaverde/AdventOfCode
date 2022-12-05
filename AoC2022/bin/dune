@@ -2,9 +2,11 @@
  (public_names
    AoC2022_Day01
    AoC2022_Day02
-   AoC2022_Day03)
+   AoC2022_Day03
+   AoC2022_Day04)
  (names
    AoC2022_Day01
    AoC2022_Day02
-   AoC2022_Day03)
+   AoC2022_Day03
+   AoC2022_Day04)
  (libraries AoC2022))
