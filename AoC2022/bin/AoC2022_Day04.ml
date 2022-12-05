@@ -80,6 +80,9 @@
  *  - 2-6,4-8 overlaps in sections 4, 5, and 6.
  *
  * So, in this example, the number of overlapping assignment pairs is 4.
+ *
+ * AUTHOR : José Antonio Verde Jiménez
+ * DATE   : 2022-12-05
  *)
 
 let () =
