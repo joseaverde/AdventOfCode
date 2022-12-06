@@ -4,11 +4,13 @@
    AoC2022_Day02
    AoC2022_Day03
    AoC2022_Day04
-   AoC2022_Day05)
+   AoC2022_Day05
+   AoC2022_Day06)
  (names
    AoC2022_Day01
    AoC2022_Day02
    AoC2022_Day03
    AoC2022_Day04
-   AoC2022_Day05)
+   AoC2022_Day05
+   AoC2022_Day06)
  (libraries AoC2022))
