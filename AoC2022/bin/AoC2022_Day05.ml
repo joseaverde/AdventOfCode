@@ -173,7 +173,7 @@ let () =
             fun i -> match Array.get crates i with h::_ -> h | _ -> ' ') in
          let top' = String.init size (
             fun i -> match Array.get crates' i with h::_ -> h | _ -> ' ') in
-         Printf.printf "AoC 2022 Day 03 Part 1 -> %s\n" top  ;
-         Printf.printf "AoC 2022 Day 03 Part 2 -> %s\n" top' ;
+         Printf.printf "AoC 2022 Day 05 Part 1 -> %s\n" top  ;
+         Printf.printf "AoC 2022 Day 05 Part 2 -> %s\n" top' ;
       end
    end

@@ -105,7 +105,7 @@ let () =
          if !flag then start' := i + 14
       end
    done ;
-   Printf.printf "%d\n" !start ;
-   Printf.printf "%d\n" !start'
+   Printf.printf "AoC 2022 Day 06 Part 1 %d\n" !start ;
+   Printf.printf "AoC 2022 Day 06 Part 2 %d\n" !start'
 
 (* End of file *)
