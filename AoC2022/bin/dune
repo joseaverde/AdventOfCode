@@ -8,7 +8,8 @@
    AoC2022_Day06
    AoC2022_Day07
    AoC2022_Day08
-   AoC2022_Day09)
+   AoC2022_Day09
+   AoC2022_Day10)
  (names
    AoC2022_Day01
    AoC2022_Day02
@@ -18,5 +19,6 @@
    AoC2022_Day06
    AoC2022_Day07
    AoC2022_Day08
-   AoC2022_Day09)
+   AoC2022_Day09
+   AoC2022_Day10)
  (libraries AoC2022))
